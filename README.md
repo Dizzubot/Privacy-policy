@@ -43,7 +43,7 @@ We do **not**:
 ## 4. Data Retention and Deletion
 
 - Server data is retained as long as the bot is present on your server.
-- Upon removal of Dizzu from your server, associated server data will be deleted automatically within 30 days.
+- Upon removal of Dizzu from your server, associated server data will be deleted automatically.
 - You may request immediate data deletion by contacting us.
 
 ---
