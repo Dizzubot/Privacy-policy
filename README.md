@@ -48,23 +48,15 @@ We do **not**:
 
 ---
 
-## 5. Your Rights
 
-You have the right to:
-- Request access to your server’s data
-- Request correction or deletion of stored data
-- Withdraw consent at any time by removing the bot
-
----
-
-## 6. Changes to This Privacy Policy
+## 5. Changes to This Privacy Policy
 
 We may update this Privacy Policy as needed.  
 Significant changes will be communicated via Discord announcements or the bot’s update logs.
 
 ---
 
-## 7. Contact
+## 6. Contact
 
 For any privacy-related inquiries or data deletion requests, please contact the Dizzu Development Team via Discord.
 
