@@ -1,63 +1,131 @@
-# Dizzu Bot Privacy Policy
+Privacy Policy for Dizzu Bot
 
-**Effective Date:** April 26, 2025
+Effective Date: 25.05.2025
 
-Your privacy is important to us. This Privacy Policy explains what data Dizzu collects, why we collect it, and how we handle it.
+Thank you for using Dizzu, a multipurpose Discord bot designed to enhance your server experience with features like welcome messages, autoresponders, auto reactions, tickets, logging, giveaways, and activity tracking.
+
+This Privacy Policy explains how Dizzu collects, uses, and protects your data when you invite and use the bot on your Discord server.
+
 
 ---
 
-## 1. What Information We Collect
+1. Information We Collect
 
-Dizzu collects minimal information required to operate:
-- **User IDs and Server IDs** (to manage settings per server)
-- **Message Counts, Voice Activity Data, Invite Tracking Data** (for server statistics and leaderboards)
-- **Server Configurations** (such as welcome settings, autoresponders, embed templates)
+Dizzu only collects data essential for the operation of its features. The types of data collected include:
 
-We **do not collect**:
-- Message content
-- Emails, passwords, or any sensitive personal data
+User and Member Data:
 
----
+User IDs, usernames, and avatars
 
-## 2. How We Use Your Information
-
-Data collected by Dizzu is used only to:
-- Deliver the requested features (welcome, tracking, music, etc.)
-- Maintain and improve bot functionality
-- Troubleshoot errors and bugs
-
-We do **not**:
-- Sell data to third parties
-- Share data outside of the authorized development team
-
----
-
-## 3. Data Storage and Protection
-
-- Data is stored securely in our internal systems.
-- Access to stored data is restricted to authorized developers.
-- We use reasonable security measures to protect the data from unauthorized access or breaches.
-
----
-
-## 4. Data Retention and Deletion
-
-- Server data is retained as long as the bot is present on your server.
-- Upon removal of Dizzu from your server, associated server data will be deleted automatically.
-- You may request immediate data deletion by contacting us.
-
----
+Join/leave timestamps
 
 
-## 5. Changes to This Privacy Policy
+Message Data (for Logging, Autoresponder, Autoreact, Tracking):
 
-We may update this Privacy Policy as needed.  
-Significant changes will be communicated via Discord announcements or the bot’s update logs.
+Message content (for logs only if enabled)
+
+Message IDs, timestamps, edited/deleted status
+
+
+Server Data:
+
+Server ID, name, and configuration settings
+
+Channel and role IDs used for configuration
+
+
+Voice Activity:
+
+Voice join/leave/mute/unmute events for tracking
+
+
+Invite Stats:
+
+Invite usage count, inviter ID
+
+
+Giveaway Participation:
+
+User IDs of participants and winners
+
+
+
 
 ---
 
-## 6. Contact
+2. How We Use the Data
 
-For any privacy-related inquiries or data deletion requests, please contact the Dizzu Development Team via Discord.
+All collected data is used strictly for bot functionality and feature delivery, such as:
+
+Sending welcome messages
+
+Responding automatically to messages
+
+Handling tickets and logs
+
+Running giveaways
+
+Tracking messages, voice activity, and invites
+
+Building embeds via the EmbedBuilder feature
+
+
+We do not sell or share your data with any third-party services.
+
+
+---
+
+3. Data Storage
+
+Data is stored securely using a database or JSON-based system.
+
+Only server-specific configurations and necessary logs are stored.
+
+Data is retained only as long as needed for functionality or until removed by server administrators.
+
+
+
+---
+
+4. Your Rights
+
+Server administrators can:
+
+Disable or reset features (like logging, tracking)
+
+Request deletion of stored data related to their server
+
+Remove the bot at any time to cease all data collection
+
+
+
+---
+
+5. Security
+
+We implement appropriate security measures to protect data, including access restrictions and encryption methods where applicable.
+
+
+---
+
+6. Third-Party Services
+
+Dizzu interacts only with the Discord API and does not integrate with external third-party services.
+
+
+---
+
+7. Changes to This Policy
+
+We may update this Privacy Policy at any time. Continued use of the bot after changes constitutes acceptance of the new terms.
+
+
+---
+
+8. Contact
+
+For any questions or data removal requests, please contact the developer:
+Discord: https://discord.gg/dizzu
+
 
 ---
