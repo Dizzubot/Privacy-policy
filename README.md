@@ -1,4 +1,4 @@
-Privacy Policy for Dizzu Bot
+# Privacy Policy for Dizzu Bot
 
 Effective Date: 25.05.2025
 
@@ -9,7 +9,7 @@ This Privacy Policy explains how Dizzu collects, uses, and protects your data wh
 
 ---
 
-1. Information We Collect
+# 1. Information We Collect
 
 Dizzu only collects data essential for the operation of its features. The types of data collected include:
 
@@ -27,24 +27,24 @@ Message content (for logs only if enabled)
 Message IDs, timestamps, edited/deleted status
 
 
-Server Data:
+# Server Data:
 
 Server ID, name, and configuration settings
 
 Channel and role IDs used for configuration
 
 
-Voice Activity:
+# Voice Activity:
 
 Voice join/leave/mute/unmute events for tracking
 
 
-Invite Stats:
+# Invite Stats:
 
 Invite usage count, inviter ID
 
 
-Giveaway Participation:
+# Giveaway Participation:
 
 User IDs of participants and winners
 
@@ -53,7 +53,7 @@ User IDs of participants and winners
 
 ---
 
-2. How We Use the Data
+# 2. How We Use the Data
 
 All collected data is used strictly for bot functionality and feature delivery, such as:
 
@@ -75,7 +75,7 @@ We do not sell or share your data with any third-party services.
 
 ---
 
-3. Data Storage
+# 3. Data Storage
 
 Data is stored securely using a database or JSON-based system.
 
@@ -87,7 +87,7 @@ Data is retained only as long as needed for functionality or until removed by se
 
 ---
 
-4. Your Rights
+# 4. Your Rights
 
 Server administrators can:
 
@@ -101,28 +101,28 @@ Remove the bot at any time to cease all data collection
 
 ---
 
-5. Security
+# 5. Security
 
 We implement appropriate security measures to protect data, including access restrictions and encryption methods where applicable.
 
 
 ---
 
-6. Third-Party Services
+# 6. Third-Party Services
 
 Dizzu interacts only with the Discord API and does not integrate with external third-party services.
 
 
 ---
 
-7. Changes to This Policy
+# 7. Changes to This Policy
 
 We may update this Privacy Policy at any time. Continued use of the bot after changes constitutes acceptance of the new terms.
 
 
 ---
 
-8. Contact
+# 8. Contact
 
 For any questions or data removal requests, please contact the developer:
 Discord: https://discord.gg/dizzu
